@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cover Songs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sid_slathia">SidSlathia</string>
+    <string name="title_activity_shirl">Shirl</string>
+    <string name="title_activity_jonita">jonita</string>
+
+</resources>
